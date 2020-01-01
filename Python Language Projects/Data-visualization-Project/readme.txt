@@ -1,1 +1,1 @@
-Data Visualization using Matplotlib library on economic assignment data.
+Data Visualization using Matplotlib library on economist assignment data.
