@@ -1,0 +1,1 @@
+Random Forest is applied on MNIST data to read/predict handwritten digit in Kaggle competition, with 78% accuracy. In other algorithm, PCA and SVM are implemented for dimension reduction and prediction, respectively.
